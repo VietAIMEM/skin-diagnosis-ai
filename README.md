@@ -15,9 +15,9 @@ No custom backend server is required for either mode.
 
 ## Review
 <div align="center">
-  <img width="47%" alt="1" src="https://github.com/user-attachments/assets/3cbe23ee-125c-4aad-bb9d-a78419fcaef9" />
+  <img width="30%" alt="1" src="https://github.com/user-attachments/assets/3cbe23ee-125c-4aad-bb9d-a78419fcaef9" />
   &nbsp;&nbsp;
-  <img width="47%" alt="2" src="https://github.com/user-attachments/assets/85b94bc6-51b5-4f48-bad7-210ea91d0dd8" />
+  <img width="30%" alt="2" src="https://github.com/user-attachments/assets/85b94bc6-51b5-4f48-bad7-210ea91d0dd8" />
 </div>
 
 ---
